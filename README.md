@@ -1,11 +1,10 @@
 # day7friends
 this one here is an edit by mark
 
-<<<<<<< HEAD
+
 
 =======
 this is an edit by choua 
->>>>>>> 4f2754a0b296695187ee653bfdf6715fe5ed5a56
 
 #### HEADER 4
 
