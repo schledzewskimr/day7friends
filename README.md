@@ -14,4 +14,7 @@ this is an edit by choua
 
 # HEADER 1
 
+
 ![](https://www.tacobell.com/images/22371_quesarito_269x269.jpg)
+Look at this 
+[Cool Image](https://www.istockphoto.com/photos/nature)git 
